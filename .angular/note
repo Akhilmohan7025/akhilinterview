@@ -1,0 +1,13 @@
+angular commands
+1.to create angular project--- ng new project_name/ng new project_name --routing
+2.to run a angular project--- ng serve --open
+3.to create component--- ng g c component_name
+4.to create services-- ng g s service_name
+
+
+
+
+
+5.dependency injection--- share data from 2 clses  syntax:access specifier obj-name:instance:name
+6. ngsubmit--using for not click logint button or any another type of buttons.only click enter or click the form it perform the operations.
+7.services-- to hold redenend code
